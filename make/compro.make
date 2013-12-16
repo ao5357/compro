@@ -40,4 +40,4 @@ projects[compro][download][url] = https://github.com/tomgeekery/compro.git
 
 ; Themes
 ; ----------
-projects[] = adminimal
+;projects[] = adminimal
