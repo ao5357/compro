@@ -23,7 +23,7 @@ projects[metatag][subdir] = contrib
 projects[block_class][subdir] = contrib
 projects[entity][subdir] = contrib
 projects[globalredirect][subdir] = contrib
-projects[adminimal_admin_menu] = contrib
+projects[adminimal_admin_menu][subdir] = contrib
 
 ; Custom Modules
 --------------------
